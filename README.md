@@ -6,5 +6,3 @@
 4. Установить cypress (в гитбаше): `npm install cypress --save-dev`
 6. Запускать автотесты командой `npm run start` 
 7. Все новые тесты нужно писать в папке /integration
-# Cypress-AQA
-# Cypress-AQA
